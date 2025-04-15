@@ -28,6 +28,7 @@ HR()
 - Acquire my first software engineering internship
   - I am super interested in mobile development
     - Particularly IOS development such as Swift and Xcode and the IOS development lifecycle
+
 ## How to make mashed potatoes
 1. Add potato flakes
 2. Add butter
@@ -35,6 +36,7 @@ HR()
 4. Heat
 5. Add Salt and Pepper
 6. Mix
+
 ## Who is the best NBA player of All-Time?
 - [x] Steph Curry
 - [ ] Michael Jordan
