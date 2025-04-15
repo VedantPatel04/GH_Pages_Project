@@ -34,7 +34,7 @@ HR()
 3. Add milk
 4. Heat
 5. Add Salt and Pepper
-6. Mix 
+6. Mix
 ## Who is the best NBA player of All-Time?
 - [x] Steph Curry
 - [ ] Michael Jordan
